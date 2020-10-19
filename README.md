@@ -18,7 +18,7 @@ Clone the repository and catkin_make:
     cmake ..
     catkin_make
 ```
-Download the dataset that is created from Airsim. Download link:  
+Download the dataset that is created from Airsim, and save them into the Datset . Download link: https://drive.google.com/file/d/1PIuRyah6lKDTe_YJ6HSVRX4l7MQLwKq5/view?usp=sharing. 
 
 Launch it as follows:
 ```
