@@ -3,8 +3,8 @@ Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam https://arxiv.org/ab
 
 Results
 -
-![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/tree/main/example/result1.png)
-![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/tree/main/example/result2.png)
+![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/row/master/example/result1.png)
+![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/row/master/example/result2.png)
 
 # 1. What do I need to build it? #
 * Ubuntu
