@@ -9,7 +9,7 @@ Results
 ![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/blob/main/example/result1.png)
 ![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/blob/main/example/result2.png)
 
-# 1. What do I need to build it? #
+# 1. Prerequisites #
 * Ubuntu
 * CMake
 * Eigen
@@ -17,7 +17,7 @@ Results
 * OpenCV
 * PCL
 
-# 2. How do I use it? #
+# 2. Running #
 Clone the repository and catkin_make:
 ```
     git clone https://https://github.com/gxytcrc/Semantic-Graph-based--global-Localization.git
