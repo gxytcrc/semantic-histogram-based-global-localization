@@ -1,5 +1,10 @@
-# Semantic-Graph-based--global-Localization
-Semantic graph based global localization for multi-robot map fusion. 
+# Semantic Histogram Based Graph Matching for Real-Time Multi-Robot Global Localization in Large Scale Environment
+Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam https://arxiv.org/abs/2010.09297
+
+Results
+-
+![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/tree/main/example/results1.png)
+![](https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/tree/main/example/results2.png)
 
 # 1. What do I need to build it? #
 * Ubuntu
