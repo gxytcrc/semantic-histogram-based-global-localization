@@ -1,5 +1,7 @@
 # Semantic Histogram Based Graph Matching for Real-Time Multi-Robot Global Localization in Large Scale Environment
-Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam https://arxiv.org/abs/2010.09297
+Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam.
+\\
+paper link: https://arxiv.org/abs/2010.09297
 
 Results
 -
