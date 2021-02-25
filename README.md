@@ -2,7 +2,7 @@
 Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam. 
 
 
-paper link: https://arxiv.org/abs/2010.09297
+paper link: https://arxiv.org/abs/2010.09297 or https://ieeexplore.ieee.org/document/9353207/
 
 Results
 -
