@@ -6,7 +6,7 @@ Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam, **Semantic Histogra
 **, IEEE Robotics and Automation Letters, 2021. **[PDF](https://arxiv.org/pdf/2010.09297.pdf)**. 
 
 <a href="https://www.youtube.com/watch?v=xB8WHj8K9cE" target="_blank"><img src="https://github.com/gxytcrc/Semantic-Graph-based--global-Localization/blob/main/example/fengmian.png" 
-alt="ORB-SLAM3" width="480" height="360" border="10" /></a>
+alt="ORB-SLAM3" width="240" height="200" border="10" /></a>
 
 Results
 -
