@@ -41,6 +41,7 @@ Launch it as follows:
 title={Semantic Histogram Based Graph Matching for Real-Time Multi-Robot Global Localization in Large Scale Environment},
 author={Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam},
 booktitle=IEEE Robotics and Automation Letters (RA-L)},
-year={2021}}
+year={2021}
+}
 ```
 
