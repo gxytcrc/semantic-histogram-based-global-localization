@@ -35,3 +35,12 @@ Launch it as follows:
 ```
 ./mapAlignment robot1-foldername startFrameNumber endFrameNumber robot2-foldername startFrameNumber endFrameNumber
 ```
+### Citation
+```
+@inproceedings{XiyueGuo2021,
+title={X-Semantic Histogram Based Graph Matching for Real-Time Multi-Robot Global Localization in Large Scale Environment},
+author={Xiyue Guo, Junjie Hu, Junfeng Chen, Fuqin Deng, Tin Lun Lam},
+booktitle=IEEE Robotics and Automation Letters (RA-L)},
+year={2021}}
+```
+
