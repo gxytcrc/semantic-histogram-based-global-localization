@@ -18,7 +18,7 @@ Results
 * Eigen
 * Pangolin
 * OpenCV
-* PCL
+* PCL (version below 1.10)
 
 # 2. Running #
 Clone the repository and catkin_make:
